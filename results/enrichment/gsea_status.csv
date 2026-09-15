@@ -1,0 +1,11 @@
+"cell_type","n_ranked","n_terms","n_FDR05"
+"B_cells",9542,3573,503
+"Endothelial",5727,3023,132
+"Epithelial",11612,4020,260
+"Macrophages",8493,3611,26
+"Mast_cells",2872,2069,479
+"Monocytes",5298,3010,441
+"Neutrophils",1287,1419,36
+"Pericytes",4426,2661,129
+"Plasma_cells",8039,3303,242
+"T_cells",10245,3732,268

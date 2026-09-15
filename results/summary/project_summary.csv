@@ -1,0 +1,11 @@
+"metric","value"
+"patients",6
+"raw_cells",35693
+"basic_qc_cells",27447
+"predicted_doublets",1682
+"final_singlets",25765
+"major_cell_types",13
+"DE_types_eligible",10
+"candidate_gene_type_pairs",6
+"global_DE_FDR05",0
+"global_GSEA_FDR05",2464

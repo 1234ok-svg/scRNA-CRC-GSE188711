@@ -1,0 +1,7 @@
+"sample_id","side","n_before","n_after","n_removed","retained_pct","fail_low_features","fail_low_counts","fail_high_mt","high_counts_flag_retained","high_features_flag_retained"
+"L1","left-sided",5352,4078,1274,76.1958146487294,581,0,1214,41,0
+"L2","left-sided",5063,3165,1898,62.5123444598064,67,0,1858,20,1
+"L3","left-sided",6944,5986,958,86.2039170506912,442,0,922,59,24
+"R1","right-sided",6589,5862,727,88.9664592502656,343,0,685,79,13
+"R2","right-sided",4740,4022,718,84.8523206751055,244,0,625,279,97
+"R3","right-sided",7005,4334,2671,61.8700927908637,534,0,2578,0,0

@@ -1,0 +1,7 @@
+sample_id,min_features,min_counts,max_mt
+L1,200,0,25
+L2,200,0,25
+L3,200,0,25
+R1,200,0,25
+R2,200,0,25
+R3,200,0,25

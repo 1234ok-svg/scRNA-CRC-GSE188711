@@ -1,0 +1,19 @@
+cluster,cell_type,cell_subtype,confidence,evidence
+0,T_cells,Helper_memory_like_T,high,CD3D CD3E IL7R TCF7 CD40LG BCL11B support T lineage
+1,B_cells,B_cells,high,MS4A1 CD79A CD79B PAX5 BANK1 FCER2
+2,T_cells,Cytotoxic_T_NK_refine,moderate,CD3D CD3E TRAC with NKG7 GNLY; refined by subclusters
+3,T_cells,Treg_like,high,FOXP3 IL2RA CTLA4 TIGIT with T lineage markers
+4,Epithelial,Secretory_epithelial,high,EPCAM KRT19 TFF1 TFF2 CEACAM6 REG4; malignancy not established
+5,Plasma_cells,Plasma_cells,high,JCHAIN MZB1 IGHA1 IGHA2 immunoglobulin transcripts
+6,Macrophages,Macrophages,high,C1QA C1QB APOC1 TREM2 MSR1 CD209 CCL18
+7,Monocytes,Inflammatory_monocyte_like,moderate,FCN1 CD300E CLEC5A IL1B EREG with myeloid markers
+8,Neutrophils,Neutrophils,high,FCGR3B CXCR2 CSF3R FPR1 FPR2 S100A8
+9,Fibroblasts,Fibroblasts,high,COL1A1 COL1A2 DCN LUM PDGFRA WNT2
+10,Mixed,Cycling_lineages_refine,moderate,Cell cycle genes with multiple lineage programs; refined by subclusters
+11,Mast_cells,Mast_cells,high,TPSAB1 TPSB2 CPA3 KIT MS4A2
+12,Pericytes,Mural_pericyte_like,moderate,RGS5 KCNJ8 ABCC9 PDGFRB ACTA2; mural continuum possible
+13,Endothelial,Endothelial,high,VWF CLDN5 CDH5 PECAM1
+14,Epithelial,Absorptive_epithelial,high,EPCAM KRT19 CA1 ADH1C PRAC1; malignancy not established
+15,Dendritic,Mature_DC_like,moderate,LAMP3 CCL22 CCL19 CCL17 FLT3 FSCN1
+16,Plasma_cells,Cycling_plasma,moderate,MZB1 JCHAIN CCR10 plus cell cycle histone genes
+17,Dendritic,pDC_like,moderate,CLEC4C LILRA4 PTCRA with MZB1 JCHAIN; only 53 cells

@@ -1,0 +1,7 @@
+"gsm","sample_id","side","n_genes","n_cells","nonzero_entries","total_counts","median_counts","median_features","zero_count_cells","duplicate_symbols"
+"GSM5688706","L1","left-sided",33694,5352,6732511,39758272,3311,998,0,34
+"GSM5688707","L2","left-sided",33694,5063,8650719,50890168,4503,1220,0,34
+"GSM5688708","L3","left-sided",33694,6944,9142258,40946682,3215.5,1051,0,34
+"GSM5688709","R1","right-sided",33694,6589,9228797,51562155,4326,1280,0,34
+"GSM5688710","R2","right-sided",33694,4740,5679218,29972570,3190,1020,0,34
+"GSM5688711","R3","right-sided",33694,7005,9216883,43351356,3120,1024,0,34

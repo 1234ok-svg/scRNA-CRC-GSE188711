@@ -1,0 +1,7 @@
+"sample_id","side","n_input","n_basic_qc","n_doublet","n_final"
+"L1","left-sided",5352,4078,233,3845
+"L2","left-sided",5063,3165,173,2992
+"L3","left-sided",6944,5986,416,5570
+"R1","right-sided",6589,5862,332,5530
+"R2","right-sided",4740,4022,208,3814
+"R3","right-sided",7005,4334,320,4014
