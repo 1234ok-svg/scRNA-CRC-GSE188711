@@ -1,0 +1,11 @@
+data/
+docs/
+logs/
+renv/library-local/
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.rds
+*.part
+.env*
